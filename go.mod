@@ -1,4 +1,4 @@
-module github.com/nknorg/nkn-tuna-session
+module github.com/0xwallet/nkn-tuna-session
 
 go 1.13
 

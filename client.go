@@ -14,12 +14,12 @@ import (
 	"sync"
 	"time"
 
+	"github.com/0xwallet/nkn-tuna-session/pb"
 	"github.com/0xwallet/tuna"
 	"github.com/golang/protobuf/proto"
 	"github.com/imdario/mergo"
 	ncp "github.com/nknorg/ncp-go"
 	nkn "github.com/nknorg/nkn-sdk-go"
-	"github.com/nknorg/nkn-tuna-session/pb"
 	gocache "github.com/patrickmn/go-cache"
 )
 

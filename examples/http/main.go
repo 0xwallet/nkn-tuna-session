@@ -14,7 +14,7 @@ import (
 
 	"github.com/nknorg/ncp-go"
 	nkn "github.com/nknorg/nkn-sdk-go"
-	ts "github.com/nknorg/nkn-tuna-session"
+	ts "github.com/0xwallet/nkn-tuna-session"
 	"github.com/0xwallet/tuna/geo"
 )
 
