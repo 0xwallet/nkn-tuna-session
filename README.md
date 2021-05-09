@@ -1,7 +1,7 @@
 # NKN Tuna Session
 
 NKN Tuna Session is an overlay peer to peer connection based on multiple
-concurrent [tuna](https://github.com/nknorg/tuna) connections and
+concurrent [tuna](https://github.com/0xwallet/tuna) connections and
 [ncp](https://github.com/nknorg/ncp-go) protocol.
 
 A few feature highlights:
@@ -105,13 +105,13 @@ on iOS/Android without any modification. You can use `gomobile bind` to compile
 it to Objective-C framework for iOS:
 
 ```shell
-gomobile bind -target=ios -ldflags "-s -w" github.com/nknorg/nkn-tuna-session github.com/nknorg/nkn-sdk-go github.com/nknorg/ncp-go github.com/nknorg/tuna
+gomobile bind -target=ios -ldflags "-s -w" github.com/0xwallet/nkn-tuna-session github.com/0xwallet/nkn-sdk-go github.com/0xwallet/ncp-go github.com/0xwallet/tuna
 ```
 
 and Java AAR for Android:
 
 ```shell
-gomobile bind -target=android -ldflags "-s -w" github.com/nknorg/nkn-tuna-session github.com/nknorg/nkn-sdk-go github.com/nknorg/ncp-go github.com/nknorg/tuna
+gomobile bind -target=android -ldflags "-s -w" github.com/0xwallet/nkn-tuna-session github.com/0xwallet/nkn-sdk-go github.com/0xwallet/ncp-go github.com/0xwallet/tuna
 ```
 
 ## Contributing

@@ -3,8 +3,8 @@ package session
 import (
 	"github.com/imdario/mergo"
 	ncp "github.com/nknorg/ncp-go"
-	"github.com/nknorg/tuna"
-	"github.com/nknorg/tuna/geo"
+	"github.com/0xwallet/tuna"
+	"github.com/0xwallet/tuna/geo"
 )
 
 type Config struct {

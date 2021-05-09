@@ -15,7 +15,7 @@ import (
 	ncp "github.com/nknorg/ncp-go"
 	nkn "github.com/nknorg/nkn-sdk-go"
 	ts "github.com/nknorg/nkn-tuna-session"
-	"github.com/nknorg/tuna/geo"
+	"github.com/0xwallet/tuna/geo"
 )
 
 const (

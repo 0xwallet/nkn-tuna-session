@@ -6,7 +6,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/nknorg/tuna/types"
+	"github.com/0xwallet/tuna/types"
 )
 
 func init() {
