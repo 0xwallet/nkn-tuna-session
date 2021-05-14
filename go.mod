@@ -3,7 +3,7 @@ module github.com/0xwallet/nkn-tuna-session
 go 1.13
 
 require (
-	github.com/0xwallet/tuna v0.0.0-20210509143940-50c9f6511cd6
+	github.com/0xwallet/tuna v0.0.0-20210514163524-437a088cb5d0
 	github.com/golang/protobuf v1.4.1
 	github.com/imdario/mergo v0.3.9
 	github.com/nknorg/ncp-go v1.0.3
