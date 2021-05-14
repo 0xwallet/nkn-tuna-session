@@ -35,13 +35,13 @@ You first need to import both `nkn-sdk-go` and `nkn-tuna-session`:
 
 ```go
 import (
-	nkn "github.com/nknorg/nkn-sdk-go"
+	nkn "github.com/0xwallet/nkn-sdk-go"
 	ts "github.com/0xwallet/nkn-tuna-session"
 )
 ```
 
 Create a multi-client and wallet (see
-[nkn-sdk-go](https://github.com/nknorg/nkn-sdk-go) for details) or re-use your
+[nkn-sdk-go](https://github.com/0xwallet/nkn-sdk-go) for details) or re-use your
 existing ones:
 
 ```go

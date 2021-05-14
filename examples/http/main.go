@@ -13,7 +13,7 @@ import (
 	"strings"
 
 	"github.com/nknorg/ncp-go"
-	nkn "github.com/nknorg/nkn-sdk-go"
+	nkn "github.com/0xwallet/nkn-sdk-go"
 	ts "github.com/0xwallet/nkn-tuna-session"
 	"github.com/0xwallet/tuna/geo"
 )
